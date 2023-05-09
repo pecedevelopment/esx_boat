@@ -16,7 +16,7 @@ Locales['hu'] = {
   ['garage_stored'] = 'Sikeresen leraktad a hajót',
   ['garage_noboats'] = '~r~Nincsen hajód',
   ['garage_blocked'] = '~r~A lehívási pont blokkolva',
-  ['garage_notowner'] = '~r~Nem a tied ez a hajó',
+  ['garage_notowner'] = '~r~Ez a hajó nem a tiéd',
 
   -- license
   ['license_menu'] = 'Szeretnél venni hajó engedélyt?',
